@@ -9,11 +9,11 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.akbar.a0142_roomdatabase.uicontroller.route.DestinasiDetailSiswa
-import com.akbar.a0142_roomdatabase.uicontroller.route.DestinasiDetailSiswa.itemIdArg
-import com.akbar.a0142_roomdatabase.uicontroller.route.DestinasiEditSiswa
-import com.akbar.a0142_roomdatabase.uicontroller.route.DestinasiEntry
-import com.akbar.a0142_roomdatabase.uicontroller.route.DestinasiHome
+import com.akbar.a0142_roomdatabase.uicontroller.DestinasiDetailSiswa
+import com.akbar.a0142_roomdatabase.uicontroller.DestinasiDetailSiswa.itemIdArg
+import com.akbar.a0142_roomdatabase.uicontroller.DestinasiEditSiswa
+import com.akbar.a0142_roomdatabase.uicontroller.DestinasiEntry
+import com.akbar.a0142_roomdatabase.uicontroller.DestinasiHome
 import com.akbar.a0142_roomdatabase.view.DetailSiswaScreen
 import com.akbar.a0142_roomdatabase.view.EditSiswaScreen
 import com.akbar.a0142_roomdatabase.view.EntrySiswaScreen
