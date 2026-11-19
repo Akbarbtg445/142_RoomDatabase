@@ -1,4 +1,4 @@
-package com.argy.a0128_roomdatabase.ui.theme
+package com.akbar.a0142_roomdatabase.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

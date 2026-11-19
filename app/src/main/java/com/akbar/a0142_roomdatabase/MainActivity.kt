@@ -1,4 +1,4 @@
-package com.argy.a0128_roomdatabase
+package com.akbar.a0142_roomdatabase
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             // Gunakan nama theme yang sesuai dengan file di folder ui/theme/ Anda
-            _0128_RoomDatabaseTheme {
+            _0142_RoomDatabaseTheme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background

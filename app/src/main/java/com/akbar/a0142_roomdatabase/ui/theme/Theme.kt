@@ -1,6 +1,5 @@
-package com.argy.a0128_roomdatabase.ui.theme
+package com.akbar.a0142_roomdatabase.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

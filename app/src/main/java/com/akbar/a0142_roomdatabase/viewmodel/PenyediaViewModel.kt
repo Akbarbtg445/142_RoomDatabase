@@ -1,4 +1,4 @@
-package com.argy.a0128_roomdatabase.viewmodel
+package com.akbar.a0142_roomdatabase.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.ViewModelProvider

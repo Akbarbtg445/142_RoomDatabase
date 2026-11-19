@@ -1,4 +1,4 @@
-package com.argy.a0128_roomdatabase.uicontroller
+package com.akbar.a0142_roomdatabase.uicontroller
 
 interface DestinasiNavigasi {
     /**

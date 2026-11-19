@@ -1,3 +1,5 @@
+package com.akbar.a0142_roomdatabase.viewmodel
+
 class DetailviewModel (
     savedStateHandle: SavedStateHandle,
     private val repositoriSiswa: RepositoriSiswa) : viewModel(){

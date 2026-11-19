@@ -1,4 +1,4 @@
-package com.argy.a0128_roomdatabase.room
+package com.akbar.a0142_roomdatabase.room
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

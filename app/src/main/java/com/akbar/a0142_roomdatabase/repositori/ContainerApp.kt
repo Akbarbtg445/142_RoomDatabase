@@ -1,7 +1,7 @@
-package com.argy.a0128_roomdatabase.repositori
+package com.akbar.a0142_roomdatabase.repositori
 
 import android.content.Context
-import com.argy.a0128_roomdatabase.room.DatabaseSiswa
+import com.akbar.a0142_roomdatabase.room.DatabaseSiswa
 
 interface ContainerApp {
     val repositoriSiswa : RepositoriSiswa

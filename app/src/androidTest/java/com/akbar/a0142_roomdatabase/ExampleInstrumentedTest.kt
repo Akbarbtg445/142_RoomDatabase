@@ -1,4 +1,4 @@
-package com.argy.a0128_roomdatabase
+package com.akbar.a0142_roomdatabase
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.argy.a0128_roomdatabase", appContext.packageName)
+        assertEquals("com.akbar.a0142_roomdatabase", appContext.packageName)
     }
 }

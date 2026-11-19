@@ -1,6 +1,6 @@
-package com.argy.a0128_roomdatabase.uicontroller
+package com.akbar.a0142_roomdatabase.uicontroller
 
-import com.argy.a0128_roomdatabase.R
+import com.argy.a0142_roomdatabase.R
 
 
 object DestinasiHome : DestinasiNavigasi {
