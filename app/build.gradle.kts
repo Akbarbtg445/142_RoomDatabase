@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.argy.a0128_roomdatabase"
+    namespace = "com.akbar.a0142_roomdatabase"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.argy.a0128_roomdatabase"
+        applicationId = "com.akbar.a0142_roomdatabase"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
