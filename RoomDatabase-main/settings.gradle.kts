@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "0128_RoomDatabase"
+rootProject.name = "042_RoomDatabase"
 include(":app")
  
